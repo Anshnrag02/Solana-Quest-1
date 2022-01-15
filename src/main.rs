@@ -4,7 +4,7 @@
 // }
 
 fn main() {
-    let mut num = 1;
+    let mut x = 1;
     loop{
         x*=2;
         if x > 5000 {
